@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Faina Lee",
+    "email": "faina@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 1,
+    "phones": [
+      {
+        "phone": "232-19-55"
+      },
+      {
+        "phone": "+7 (916) 232-19-55"
+      }
+    ]
+  },
+  {
+    "name": "Robert Lee",
+    "email": "robert@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 2,
+    "phones": [
+      {
+        "phone": "111-19-55"
+      }
+    ]
+  },
+  {
+    "name": "Sofia Fenton",
+    "email": "faina@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 1,
+    "phones": [
+      {
+        "phone": "232-19-56"
+      },
+      {
+        "phone": "+7 (916) 232-19-56"
+      }
+    ]
+  },
+  {
+    "name": "Suzanna Whittaker",
+    "email": "robert@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 2,
+    "phones": [
+      {
+        "phone": "+7 (916) 445-19-57"
+      }
+    ]
+  },
+  {
+    "name": "Lillie-Mae Bray",
+    "email": "faina@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 1,
+    "phones": [
+      {
+        "phone": "232-19-58"
+      },
+      {
+        "phone": "+7 (916) 232-19-58"
+      }
+    ]
+  },
+  {
+    "name": "Omari Mcdonnell",
+    "email": "robert@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 2,
+    "phones": [
+      {
+        "phone": "+7 (916) 445-19-59"
+      }
+    ]
+  },
+  {
+    "name": "Koa Garrett",
+    "email": "faina@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 1,
+    "phones": [
+      {
+        "phone": "232-19-50"
+      },
+      {
+        "phone": "+7 (916) 232-19-50"
+      }
+    ]
+  },
+  {
+    "name": "Robert Lee",
+    "email": "robert@mail.ru",
+    "birthday": "22.08.1994",
+    "type": 2,
+    "phones": [
+      {
+        "phone": "111-19-51"
+      },
+      {
+        "phone": "+7 (916) 445-19-51"
+      }
+    ]
+  }
+]
